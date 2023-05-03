@@ -1,6 +1,3 @@
-# python projects
- This is where I keep all of my Python projects.
- 
  
  ### CFG Python Project - Sales Analysis
  #### [CODE AND CSV FILE HERE](https://github.com/sophiaclare/python-projects/blob/main/CFG-Sales-Analysis.py)

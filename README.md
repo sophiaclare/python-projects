@@ -11,4 +11,4 @@
 **Results:** The code provides valuable insights into the sales performance, allowing stakeholders to make informed decisions based on the data. It calculates the total sales, average sales, and identifies the months with the highest and lowest sales. Additionally, it provides the monthly changes as a percentage, which can be used to identify trends and patterns in the sales data. The bar chart created provides a clear visual representation of the sales by month, making it easy to understand and interpret. The output is rounded and formatted in a clear and concise manner, further enhancing its readability.
 
 
-![alt text](https://github.com/sophiaclare/python-projects/blob/main/CFG%20SALES%20ANALYSIS.PNG?raw=true)
+![alt text](https://github.com/sophiaclare/python-projects/blob/main/CFG_sales_visualization.png?raw=true)
